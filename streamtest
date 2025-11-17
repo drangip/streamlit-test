@@ -7,4 +7,4 @@ import numpy as np
 st.title('Uber pickups in NYC')
 
 #Faire tourner streamlit
-streamlit run streamtest.py
+#streamlit run streamtest.py
