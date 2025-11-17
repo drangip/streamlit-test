@@ -8,5 +8,3 @@ st.title('Uber pickups in NYC')
 
 #Faire tourner streamlit
 streamlit run streamtest.py
-
-#streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/streamtest.py
