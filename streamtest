@@ -1,0 +1,10 @@
+#On importe les bibliothèques
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+#On ajoute un titre à l'application
+st.title('Uber pickups in NYC')
+
+#Faire tourner streamlit
+streamlit run uber_pickups.py
