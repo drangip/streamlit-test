@@ -12,4 +12,4 @@ print("Path to dataset files:", path)
 st.title('Etude du TMDB 5000 Movie Dataset')
 
 #Faire tourner streamlit
-streamlit run streamtest.py
+streamlit run MovieDataset.py.py
